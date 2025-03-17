@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone "Moflix"
 
 A fully responsive Netflix clone built with HTML, CSS, and JavaScript, designed to mimic the UI and basic functionality of Netflix.
 
