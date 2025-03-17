@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+.moflix-header {
+    background-image: url('https://via.placeholder.com/1500x500'); /* Replace with a moflix-like background */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.moflix-header .animate__animated h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.moflix-header .animate__animated p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.animate__animated.animate__fadeInDown {
+    --animate-duration: 2s;
+}
+
+.movies {
+    padding: 50px 0;
+}
+
+.movies h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.movie-card {
+    margin-bottom: 20px;
+    transition: transform .5s;
+}
+
+.movie-card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.movie-card:hover {
+    transform: translateY(10px);
+}
+
+.moflix-footer {
+    background-color: #111;
+    padding: 20px 0;
+    text-align: center;
+    bottom: 0;
+}
+
+.shows {
+    padding: 50px 0;
+}
+
+.shows h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.show-card {
+    margin-bottom: 20px;
+    transition: transform .5s;
+}
+
+.show-card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.show-card:hover {
+    transform: translateY(10px);
+}
+
+#movienav {
+    top: 0;
+    position: fixed;
+    width: auto;
+}
+
+.moflix-header-a {
+    background-image: url('https://via.placeholder.com/1500x500'); /* Replace with a moflix-like background */
+    background-size: cover;
+    background-position: center;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.moflix-header-b {
+    background-image: url('https://via.placeholder.com/1500x500'); /* Replace with a moflix-like background */
+    background-size: cover;
+    background-position: center;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
