@@ -60,6 +60,24 @@ body {
     width: 100%;
 }
 
+.moflix-footer-s {
+    background-color: #111;
+    padding: 20px 0;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+}
+
+.moflix-footer-l {
+    background-color: #111;
+    padding: 20px 0;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+}
+
 .shows {
     padding: 50px 0;
 }
