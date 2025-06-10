@@ -7,15 +7,14 @@ A fully responsive Netflix clone built with HTML, CSS, and JavaScript, designed 
 - Responsive design for desktop and mobile devices
 - Dynamic movie and show listings
 - Hover effects and animations
-- Basic user authentication (if applicable)
-- Trailer previews (if implemented)
+- Basic user authentication
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
--animate.css
+- animate.css
 
 ## Installation
 
